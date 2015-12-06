@@ -12,3 +12,4 @@ Plugin 'VundleVim/Vundle.vim'
 
 runtime project.vundle
 runtime scm.vundle
+runtime ui.vundle
