@@ -1,3 +1,4 @@
+" ensure that the editor root is set properly
 let s:editor_root=expand("~/.config/nvim")
 " ================ General Config ====================
 
