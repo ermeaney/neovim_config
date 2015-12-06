@@ -11,3 +11,4 @@ call vundle#rc(s:editor_root . '/bundle')
 Plugin 'VundleVim/Vundle.vim'
 
 runtime project.vundle
+runtime scm.vundle
