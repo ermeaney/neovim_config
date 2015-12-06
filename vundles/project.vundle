@@ -1,3 +1,4 @@
 Plugin 'jistr/vim-nerdtree-tabs.git'
 Plugin 'scrooloose/nerdtree.git'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
+Plugin 'Shougo/unite.vim'
