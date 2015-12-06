@@ -37,5 +37,7 @@ set noswapfile
 set nobackup
 set nowb
 
+" ================ Custom Settings ========================
+so ~/.config/nvim/settings.vim
 
 
