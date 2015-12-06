@@ -5,7 +5,7 @@ filetype off                  " required
 set rtp+=~/.config/nvim/bundle/Vundle.vim
 set rtp+=~/.config/nvim/vundles/ "Submodules
 
-call vundle#begin(s:editor_root . '/bundle')
+call vundle#rc(s:editor_root . '/bundle')
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
