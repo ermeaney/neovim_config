@@ -1,1 +1,2 @@
 Plugin 'plasticboy/vim-markdown'
+Plugin 'Rykka/riv.vim'
