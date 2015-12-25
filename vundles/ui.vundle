@@ -1,2 +1,2 @@
-Plugin 'altercation/vim-colors-solarized'
-Plugin 'bling/vim-airline'
+Plug 'altercation/vim-colors-solarized'
+Plug 'bling/vim-airline'

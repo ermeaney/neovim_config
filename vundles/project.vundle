@@ -1,6 +1,9 @@
-Plugin 'jistr/vim-nerdtree-tabs.git'
-Plugin 'scrooloose/nerdtree.git'
-Plugin 'Xuyuanp/nerdtree-git-plugin'
-Plugin 'Shougo/unite.vim'
-Plugin 'Shougo/neoyank.vim'
-Plugin 'fholgado/minibufexpl.vim'
+let g:plug_url_format='https://github.com/%s.git'
+Plug 'jistr/vim-nerdtree-tabs'
+Plug 'scrooloose/nerdtree'
+unlet g:plug_url_format
+
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'Shougo/unite.vim'
+Plug 'Shougo/neoyank.vim'
+Plug 'fholgado/minibufexpl.vim'
