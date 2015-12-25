@@ -1,3 +1,8 @@
+" Load vim-plug if it does not exist
+if empty(glob("~/.config/nvim/autoload/plug.vim"))
+    execute '!curl -fLo ~/.config/nvim/autoload/plug.vim https://raw.github.com/junegunn/vim-plug/master/plug.vim'
+endif
+
 let s:editor_root=expand("~/.config/nvim")
 set rtp+=~/.config/nvim/vundles/ "Submodules
 
