@@ -1,0 +1,3 @@
+Plug 'Valloric/YouCompleteMe', { 'do': './install.py' }
+Plug 'rdnetto/YCM-Generator', { 'branch': 'stable'}
+

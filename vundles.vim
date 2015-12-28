@@ -12,5 +12,6 @@ runtime project.vundle
 runtime scm.vundle
 runtime ui.vundle
 runtime markup.vundle
+runtime autocomplete.vundle
 
 call plug#end()
